@@ -1,0 +1,9 @@
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+  <p>Adds a new build choosing strategy to the
+  <a href="http://wiki.jenkins-ci.org/display/JENKINS/Git+Plugin">Jenkins GIT plugin</a>.</p>
+  <p>Attempts to build all commits between the last build and now, oldest-first,
+     rather than skipping intermediate commits.</p>
+</div>
